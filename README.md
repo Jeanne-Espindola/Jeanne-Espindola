@@ -14,8 +14,8 @@ Meu nome é Jeanne Espíndola Pereira, tenho 19 anos e sou natural de Recife, Pe
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeanne-Espindola&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanne-Espindola&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeanne-Espindola&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeanne-Espindola&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ![Seguidores](https://img.shields.io/github/followers/Jeanne-Espindola?style=for-the-badge&logo=github&logoColor=white&color=ff69b4&labelColor=ff69b4)
