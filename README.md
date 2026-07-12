@@ -26,4 +26,4 @@ Meu nome é Jeanne Espíndola Pereira, tenho 19 anos e sou natural de Recife, Pe
 Você pode me encontrar por aqui:
 
 * **LinkedIn:** [Clique aqui para acessar meu LinkedIn](https://www.linkedin.com/in/jeanne-espindola-945088382)
-* **E-mail:** [jeanneespiindolapereira@gmail.com](mailto:jeanneespiindolapereira@gmail.com)
+* **E-mail:** [jeanneespiindolapereira@gmail.com](mailto:jeanneespindolapereira@gmail.com)
