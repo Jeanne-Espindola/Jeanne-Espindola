@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Jeanne Espíndola!
+# 👩‍💻 Olá, eu sou Jeanne Espíndola!
 
 **✨Desenvolvedora em Formação✨**
 
