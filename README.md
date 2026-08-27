@@ -8,8 +8,7 @@ Meu nome é Jeanne Espíndola Pereira, tenho 19 anos e sou natural de Recife, Pe
 
 ### 🛠 Tecnologias e Ferramentas
 
-[![Minhas Tecnologias](https://skillicons.dev/icons?i=python,c,vscode,git)](https://skillicons.dev)
----
+[![Minhas Tecnologias](https://skillicons.dev/icons?i=python,c,java,vscode,git)](https://skillicons.dev)
 
 ### 📊 Minhas Estatísticas
 
