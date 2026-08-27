@@ -14,9 +14,7 @@ Meu nome é Jeanne Espindola Pereira, tenho 19 anos e sou natural de Recife, Per
 
 ---
 
-### 🧠 Conceitos e Paradigmas
-- 🧱 **POO** (Programação Orientada a Objetos)
-- 📐 **UML** (Modelagem de Classes)
+
 
 ---
 
